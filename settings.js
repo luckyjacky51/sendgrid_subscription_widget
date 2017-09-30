@@ -1,5 +1,5 @@
 // Change the url to the domain of your app
-exports.url = 'https://collectnewsletterfromtxw.herokuapp.com/';
+exports.url = 'https://collectnewsletterfromtxw.herokuapp.com';
 
 exports.senderEmail = "web@txwwheels.com";
 exports.senderName = "TXW Wheels";
